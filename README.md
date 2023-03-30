@@ -1,2 +1,2 @@
 # clon de netflix en vue js| pinia
-![image](https://user-images.githubusercontent.com/95943858/228940655-fe55c1f1-1d6e-493f-9382-8c4bd026d1a8.png)
+![image](https://user-images.githubusercontent.com/95943858/228940904-b6c720fe-2d69-4325-b08b-e72db7c1dc3a.png)
